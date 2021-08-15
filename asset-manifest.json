@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/juwelrana/static/css/main.a617e044.chunk.css",
+    "main.js": "/juwelrana/static/js/main.c09d3271.chunk.js",
+    "main.js.map": "/juwelrana/static/js/main.c09d3271.chunk.js.map",
+    "runtime-main.js": "/juwelrana/static/js/runtime-main.9c5e6036.js",
+    "runtime-main.js.map": "/juwelrana/static/js/runtime-main.9c5e6036.js.map",
+    "static/js/2.52df0789.chunk.js": "/juwelrana/static/js/2.52df0789.chunk.js",
+    "static/js/2.52df0789.chunk.js.map": "/juwelrana/static/js/2.52df0789.chunk.js.map",
+    "static/js/3.57d3d578.chunk.js": "/juwelrana/static/js/3.57d3d578.chunk.js",
+    "static/js/3.57d3d578.chunk.js.map": "/juwelrana/static/js/3.57d3d578.chunk.js.map",
+    "index.html": "/juwelrana/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/juwelrana/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.52df0789.chunk.js.LICENSE.txt": "/juwelrana/static/js/2.52df0789.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/juwelrana/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c5e6036.js",
+    "static/js/2.52df0789.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c09d3271.chunk.js"
+  ]
+}
